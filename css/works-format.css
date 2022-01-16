@@ -10,3 +10,19 @@
 .entrytitle{
 	font-weight: bold;
 }
+
+
+
+.class-name{
+	font-weight: bold;
+}
+.class-time{
+	font-style: italic;
+}
+
+.class-position::after{
+	content: " for ";
+}
+.class-time::before{
+	content: "<br>";
+}
