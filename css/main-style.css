@@ -331,7 +331,7 @@ main{
 
 
 .darkmode {
-  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1));
+  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3));
   --background-color: rgba(20, 20, 20, 1.0);
   --link-color: rgba(135, 206, 235, 1.0);
   --link-hover: rgba(153, 90, 255, 1.0);
