@@ -331,9 +331,10 @@ main{
 
 
 .darkmode {
-  --hero-top: rgba(0, 0, 0, 0.6);
-  --hero-bottom: rgba(0, 0, 0, 0.3);
+  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1));
   --background-color: rgba(20, 20, 20, 1.0);
+  --link-color: rgba(135, 206, 235, 1.0);
+  --link-hover: rgba(153, 90, 255, 1.0);
 }
 
 
@@ -341,12 +342,6 @@ main{
 
 .darkmode .profile-name, .darkmode .profile-desc, .darkmode .content, .darkmode #footer{
   color: var(--light-trans-text);
-}
-.darkmode #switch-light-dark, .darkmode a{
-  color: rgba(135, 206, 235, 1.0);
-}
-.darkmode #switch-light-dark:hover, .darkmode a:hover{
-  color: rgba(153, 90, 255, 1.0);
 }
 .darkmode #switch-light-dark::after{
   content: "Switch to Light Mode";
