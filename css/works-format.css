@@ -12,7 +12,9 @@
 }
 
 
-
+.class-position::after{
+	content: " for ";
+}
 .class-name{
 	font-weight: bold;
 }
@@ -20,9 +22,3 @@
 	font-style: italic;
 }
 
-.class-position::after{
-	content: " for ";
-}
-.class-time::before{
-	content: "<br>";
-}
