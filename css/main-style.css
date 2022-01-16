@@ -12,10 +12,8 @@
 
 body{
   font-family: ".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-}
-
-body, html {
-    margin: 0px;
+  margin: 0px;
+  overflow: hidden;
 }
 
 .content{
