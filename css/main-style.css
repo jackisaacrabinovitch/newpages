@@ -1,0 +1,371 @@
+:root {
+  --dark-trans: rgba(0, 0, 0, 0.75);
+  --light-trans-text: rgba(255, 255, 255, 0.85);
+  --light-trans-background: rgba(240, 240, 240, 0.85);
+
+  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1));
+  --background-color: rgba(250, 250, 250, 1.0);
+
+  --link-color: rgba(0, 0, 140, 1.0);
+  --link-hover: rgba(35, 106, 240, 1.0);
+}
+
+body{
+  font-family: ".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+}
+
+body, html {
+    margin: 0px;
+}
+
+.content{
+  margin: 10px;
+  color: var(--dark-trans);
+}
+
+/* The hero image */
+.hero-image {
+  /* Set a specific height */
+  height: 250px;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  color: var(--light-trans-text);
+  font-size: 100px;
+  font-weight: normal;
+}
+
+nav {
+  font-size: 17px;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10000;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 60px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+}
+nav ul li{
+  cursor:  pointer;
+  flex: auto;
+  text-align: center;
+  height: 60px;
+}
+.navitem{
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#switch-light-dark, a{  
+  text-decoration: none;
+  color: var(--link-color);
+}
+#switch-light-dark:hover, a:hover{
+  color: var(--link-hover);
+}
+
+
+
+nav a, nav p{
+  color: var(--light-trans-text);
+  text-transform: uppercase;
+  font-weight: bold;
+  justify-content: center;
+}
+nav ul li:hover .navitem{
+  color: var(--light-trans-text);
+  background-color: var(--dark-trans);
+}
+
+#menubutton{
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 60px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#menubutton p::after{
+    content: "Open 打開 ᠰᠠᡵᠠᠪᡠ";
+}
+
+
+
+@media screen and (max-width: 641px){
+  nav ul{
+    position: absolute;
+    overflow: visible;
+    flex-direction: column;
+    right: 0px;
+    top: 60px;
+    height: calc(100vh - 60px);
+    width: 100%;
+    transform: translateY(-120%);
+    transition: transform 0.5s ease;
+  }
+  nav ul li{
+    width: 100vw;
+    height: calc((100vh - 60px)7);
+  }
+  ul .navitem{
+    height: calc((100vh - 60px)/7);
+    background-color: var(--dark-trans);
+  }
+  #menubutton{
+    display: flex;
+  }
+}
+
+
+
+.nav-opaque ul li .navitem{
+  background-color: var(--dark-trans);
+}
+
+.nav-opaque ul li:hover .navitem{
+  color: var(--dark-trans);
+  background-color: var(--light-trans-background);
+}
+
+
+.nav-opaque #menubutton{
+    background-color: var(--dark-trans);
+}
+
+
+
+.nav-active ul{
+  transform: translateY(0%);
+}
+
+.nav-active ul li .navitem{
+  background-color: var(--dark-trans);
+}
+
+.nav-active ul li:hover .navitem{
+  color: var(--dark-trans);
+  background-color: var(--light-trans-background);
+}
+
+
+
+.nav-active #menubutton{
+  background-color: var(--dark-trans);
+}
+
+
+.nav-active #menubutton p::after{
+    content: "Close 關上 ᡩᠠᠰᡳ";
+}
+
+
+.nav-active #menubutton:hover{
+  background-color: var(--light-trans-background);
+}
+
+.nav-active #menubutton:hover p{
+  color: var(--dark-trans);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0px;
+  background-color: var(--background-color);
+}
+
+#profilecontainer{
+  display: inline-block;
+  width: 250px;
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+}
+
+#profile{
+  display: inline-block;
+  width: 250px;
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+}
+
+#content{
+  display: inline-block;
+  width: calc(100vw - 250px);
+  margin: 0px;
+  padding: 0px;
+}
+
+#profile.sticky {
+  position: fixed;
+  top: 0px;
+}
+
+.profile-picture {
+  background-image: url("https://jackisaacrabinovitch.github.io/newpages/images/profile.jpg");
+  margin: 85px 25px 25px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  background-size: 200px 200px;
+}
+
+
+.profile-name{
+  font-weight: bold;
+  font-size: 20px;
+  margin: 25px;
+  color: var(--dark-trans);
+}
+
+.profile-desc{
+  font-size: 14px;
+  margin: 25px;
+  color: var(--dark-trans);
+}
+
+
+
+
+
+
+@media screen and (max-width: 641px){
+  main{
+  display: block;
+}
+#profilecontainer,#profile{
+  display: inline-block;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+  height: 50px;
+}
+  .profile-picture{
+  display: inline-block;
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  background-size: 50px 50px;
+  vertical-align: middle;
+  }
+  .profile-name{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px;
+  }
+  .profile-desc{
+    display: block;
+    vertical-align: middle;
+    margin: 5px;
+  }
+  .profile-desc p{
+    margin: 0px;
+    display: inline;
+  }
+  .profile-desc p:not(:last-child)::after{
+    content: " ||";
+  }
+  #profile.sticky {
+  position: relative;
+  top: 0px;
+}
+#content{
+  display: block;
+  width: 100vw;
+}
+}
+
+
+
+
+#switch-light-dark::after{
+  content: "Switch to Dark Mode";
+}
+
+
+
+
+
+.darkmode {
+  --hero-top: rgba(0, 0, 0, 0.6);
+  --hero-bottom: rgba(0, 0, 0, 0.3);
+  --background-color: rgba(20, 20, 20, 1.0);
+}
+
+
+
+
+.darkmode .profile-name, .darkmode .profile-desc, .darkmode .content, .darkmode #footer{
+  color: var(--light-trans-text);
+}
+.darkmode #switch-light-dark, .darkmode a{
+  color: rgba(135, 206, 235, 1.0);
+}
+.darkmode #switch-light-dark:hover, .darkmode a:hover{
+  color: rgba(153, 90, 255, 1.0);
+}
+.darkmode #switch-light-dark::after{
+  content: "Switch to Light Mode";
+}
+.darkmode nav a{
+  color: var(--light-trans-text);
+}
+
+
+
+
+#footer{
+  width: 100%;
+  padding: 10px;
+  height: 30px;
+  margin: auto;
+}
+
+
+
+
+

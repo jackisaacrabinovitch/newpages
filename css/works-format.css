@@ -1,0 +1,12 @@
+.entrypublication{
+	font-style: italic;
+}
+.entryvenue{
+	font-style: italic;
+}
+.entryauthors{
+	font-variant: small-caps;
+}
+.entrytitle{
+	font-weight: bold;
+}
