@@ -33,6 +33,17 @@ body{
   position: relative;
 }
 
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  color: var(--light-trans-text);
+  font-size: 40px;
+  font-weight: bold;
+}
+
 nav {
   font-size: 17px;
   height: 60px;
