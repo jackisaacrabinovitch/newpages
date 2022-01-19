@@ -82,7 +82,8 @@ nav ul li{
   text-decoration: none;
   color: var(--link-color);
 }
-#switch-light-dark:hover, a:hover{
+#switch-light-dark:hover, a:hover,
+#switch-light-dark:focus, a:focus{
   color: var(--link-hover);
 }
 
@@ -94,10 +95,12 @@ nav a, nav p{
   font-weight: bold;
   justify-content: center;
 }
-nav ul li:hover .navitem{
+nav ul li:hover .navitem,
+a:focus .navitem{
   color: var(--light-trans-text);
   background-color: var(--dark-trans);
 }
+
 
 #menubutton{
   display: none;
@@ -147,7 +150,8 @@ nav ul li:hover .navitem{
   background-color: var(--dark-trans);
 }
 
-.nav-opaque ul li:hover .navitem{
+.nav-opaque ul li:hover .navitem,
+.nav-opaque a:focus .navitem{
   color: var(--dark-trans);
   background-color: var(--light-trans-background);
 }
@@ -167,7 +171,8 @@ nav ul li:hover .navitem{
   background-color: var(--dark-trans);
 }
 
-.nav-active ul li:hover .navitem{
+.nav-active ul li:hover .navitem,
+.nav-active a:focus .navitem{
   color: var(--dark-trans);
   background-color: var(--light-trans-background);
 }
