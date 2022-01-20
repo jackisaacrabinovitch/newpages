@@ -40,7 +40,6 @@
   transform: scale(1.05);
 }
 .projects-box{
-  background-color: blueviolet;
   display:flex;
   justify-content:center;
   align-items:center;
