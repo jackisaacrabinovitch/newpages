@@ -1,0 +1,196 @@
+TY  - CONF
+TI  - Two Ways to Existentially Close a Proposition
+AU  - Rabinovitch, Jack Isaac
+T2  - The 22nd Seoul International Conference on Generative Grammar (SICOGG 22)
+AB  - There is a cross-linguistic tendency to distinguish root clauses, those which may exist independent of other clauses in an utterance, and embedded clauses, which are only grammatical when embedded within a root clause. An idealized distinction between root and embedded clauses is often recognized as such: root clauses carry discourse markers, allow fronting of arguments, and allow hosting of certain moods, such as the imperative in English; embedded clauses are typically marked with a complementizer, contain less material than root clauses, and may host their own unique verbal forms. However, this distinction has been called into question as many languages occasionally embed clauses which exhibit so-called root phenomena (embedded root phenomena, or ERP) or have so-called embedded phenomena appear as independent clauses (insubordination). While ERP and insubordination are restricted to certain constructions, it is unclear if the mechanism that causes these restrictions is a syntactic one, a semantic one, or both.
+This paper presents an account of embedded and root clauses whereby a CP contains an open proposition argument which requires existential closure. Adopting a Kratzerian approach, typical embedded clauses existentially close their propositional argument after being assigned to a contentful object, an (often unvocalized) entity-type argument, via a complementizer. Without complementizers, root clauses existentially close their propositional argument after assigning it a given illocutionary force, resulting in a speech act. Lexical items such as discourse markers are restricted to root clauses as they are speech act-taking predicates.
+In Section 2, I argue that the application of illocutionary force to a proposition is a form of existential closure which relates said proposition to a speech act. This mirrors the structure of interfacing heads between sortal domains as proposed by Ramchand and Svenonius (2014), whereby the vP, TP, and CP domains are host to modifiers of event, situation, and proposition sortal types respectively. I take Force° as the interface between the propositional CP and the speech act domain, a domain above the CP first proposed by Speas and Tenny (2003) (henceforth S&T (2003)). Force- and complementizer-mediated closure result in different syntactic-semantic structures, leading to a dichotomy in their distribution and use.
+Under this framework, ERP can be analyzed as cases where embedded CPs have force-mediated closure. In Section 3, I use Suñer (1993)’s force-based analysis of Spanish embedded speech acts to argue that Spanish ‘que’ can assign speech-act content to entity-type objects, in a manner similar to but distinct from complementizers. This allows speech acts, along with their root syntactic structure, to embed under verbs. In Section 4, I extend this analysis to insubordination with the addition of either covert predication, or object-taking discourse markers. In Section 5, I discuss the shortcomings of this theory in explaining Germanic embedded verb second (EV2). In line with Djärv (2019), I argue that German ERP does not involve force-mediated closure, and is an entirely CP-internal phenomenon, suggesting that ERP may be two phenomena, split across propositional and speech act domains.
+C1  - Gyeongsang National University, Jinju, Korea
+C3  - Proceedings of the 22nd Seoul International Conference on Generative Grammar
+DA  - 2020/08/12/
+PY  - 2020
+VL  - 22
+SP  - 321
+EP  - 330
+LA  - en
+PB  - Hankook Munhwasa
+ER  - 
+
+TY  - CONF
+TI  - OCP Avoidance in Classical Chinese: Implications for Tonogenesis
+AU  - Rabinovitch, Jack Isaac
+T2  - The 2020 Annual Meeting on Phonology
+A2  - Ryan Bennett
+A2  - Richard Bibbs
+A2  - Mykel L. Brinkerhoff
+A2  - Max J. Kaplan
+A2  - Stephanie Rich
+A2  - Amanda Rysling
+A2  - Van Handel, Nicholas
+A2  - Wax Cavallaro, Maya
+AB  - Through a corpus of five pre-Qin (before 221 BCE) texts, this paper argues that the authors of both prose and poetry in Classical Chinese were sensitive to OCP violations at cross-word boundaries, and changed diction and used marked word order as a way to avoid the creation of pseudogeminates across words. The frequency of bigrams which result in pseudogeminates are compared to the predicted frequency of pseudogeminates across the corpus. This paper finds that pseudogeminates are significantly (p<0.00001) rarer than expected through randomization. Furthermore, by analyzing these texts with multiple possible phonological reconstructions, this paper suggests that post-codas, segments which were present in Old Chinese, but were elided during the process of tonogenesis between Old Chinese and Middle Chinese, were most likely present in the Chinese of the writers of the texts. Evidence comes from the consistency of OCP avoidance across all tones of Chinese assuming the presence of post-codas, and the lack of consistency thereof when post-codas are not assumed.
+C1  - Washington, D.C
+C3  - Supplemental Proceedings of the 2020 Annual Meeting on Phonology
+DA  - 2021/05/01/
+PY  - 2021
+DO  - https://doi.org/10.3765/amp.v9i0.4917
+DP  - Zotero
+LA  - en
+PB  - Linguistic Society of America
+SN  - 2377-3324
+UR  - http://journals.linguisticsociety.org/proceedings/index.php/ amphonology/index.
+ER  - 
+
+TY  - SLIDE
+TI  - Manchu -n Dropping and Nasal Assimilation Asymmetry: A Case for Coalescence and Linearity
+T2  - The 12th International Workshop on Theoretical East Asian Linguistics (TEAL 12)
+A2  - Rabinovitch, Jack Isaac
+AB  - This study investigates morpheme final sound changes during affixation and compounding in Standard Manchu (Tungusic, China). Using a framework of Optimality Theory (based on Prince & Smolensky 1993, and expanded by McCarthy 2008/2011 and Pater 2009), I argue that multiple phenomena in Manchu derivational sound change can be explained using a high ranked LINEARITY constraint which is violated not only by metathesis, but also by the lack of relative orders within a morpheme brought on through Coalescence.
+CY  - University of Macau, Macau
+DA  - 2019/07/09/
+PY  - 2019
+LA  - en
+M3  - Oral Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Implications of mbi as me+bi Hypothesis in Manchu’s Finite Verb Paradigm
+T2  - ECO5 2020
+A2  - Rabinovitch, Jack Isaac
+CY  - Harvard University
+DA  - 2020/02/22/
+PY  - 2020
+LA  - en
+M3  - Oral Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Two Ways to Existentially Close a Proposition
+T2  - The 22nd Seoul International Conference on Generative Grammar (SICOGG 22)
+A2  - Rabinovitch, Jack Isaac
+AB  - There is a cross-linguistic tendency to distinguish root clauses, those which may exist independent of other clauses in an utterance, and embedded clauses, which are only grammatical when embedded within a root clause. An idealized distinction between root and embedded clauses is often recognized as such: root clauses carry discourse markers, allow fronting of arguments, and allow hosting of certain moods, such as the imperative in English; embedded clauses are typically marked with a complementizer, contain less material than root clauses, and may host their own unique verbal forms. However, this distinction has been called into question as many languages occasionally embed clauses which exhibit so-called root phenomena (embedded root phenomena, or ERP) or have so-called embedded phenomena appear as independent clauses (insubordination). While ERP and insubordination are restricted to certain constructions, it is unclear if the mechanism that causes these restrictions is a syntactic one, a semantic one, or both.
+This paper presents an account of embedded and root clauses whereby a CP contains an open proposition argument which requires existential closure. Adopting a Kratzerian approach, typical embedded clauses existentially close their propositional argument after being assigned to a contentful object, an (often unvocalized) entity-type argument, via a complementizer. Without complementizers, root clauses existentially close their propositional argument after assigning it a given illocutionary force, resulting in a speech act. Lexical items such as discourse markers are restricted to root clauses as they are speech act-taking predicates.
+In Section 2, I argue that the application of illocutionary force to a proposition is a form of existential closure which relates said proposition to a speech act. This mirrors the structure of interfacing heads between sortal domains as proposed by Ramchand and Svenonius (2014), whereby the vP, TP, and CP domains are host to modifiers of event, situation, and proposition sortal types respectively. I take Force° as the interface between the propositional CP and the speech act domain, a domain above the CP first proposed by Speas and Tenny (2003) (henceforth S&T (2003)). Force- and complementizer-mediated closure result in different syntactic-semantic structures, leading to a dichotomy in their distribution and use.
+Under this framework, ERP can be analyzed as cases where embedded CPs have force-mediated closure. In Section 3, I use Suñer (1993)’s force-based analysis of Spanish embedded speech acts to argue that Spanish ‘que’ can assign speech-act content to entity-type objects, in a manner similar to but distinct from complementizers. This allows speech acts, along with their root syntactic structure, to embed under verbs. In Section 4, I extend this analysis to insubordination with the addition of either covert predication, or object-taking discourse markers. In Section 5, I discuss the shortcomings of this theory in explaining Germanic embedded verb second (EV2). In line with Djärv (2019), I argue that German ERP does not involve force-mediated closure, and is an entirely CP-internal phenomenon, suggesting that ERP may be two phenomena, split across propositional and speech act domains.
+CY  - Gyeongsang National University, Jinju, Korea
+DA  - 2020/08/12/
+PY  - 2020
+LA  - en
+M3  - Poster Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - OCP Avoidance in Classical Chinese: Implications for Tonogenesis
+T2  - The 2020 Annual Meeting on Phonology
+A2  - Rabinovitch, Jack Isaac
+AB  - Through a corpus of five pre-Qin (before 221 BCE) texts, this paper argues that the authors of both prose and poetry in Classical Chinese were sensitive to OCP violations at cross-word boundaries, and changed diction and used marked word order as a way to avoid the creation of pseudogeminates across words. The frequency of bigrams which result in pseudogeminates are compared to the predicted frequency of pseudogeminates across the corpus. This paper finds that pseudogeminates are significantly (p<0.00001) rarer than expected through randomization. Furthermore, by analyzing these texts with multiple possible phonological reconstructions, this paper suggests that post-codas, segments which were present in Old Chinese, but were elided during the process of tonogenesis between Old Chinese and Middle Chinese, were most likely present in the Chinese of the writers of the texts. Evidence comes from the consistency of OCP avoidance across all tones of Chinese assuming the presence of post-codas, and the lack of consistency thereof when post-codas are not assumed.
+CY  - University of California San Diego
+DA  - 2020/09/20/
+PY  - 2020
+LA  - en
+M3  - Poster Presentation
+UR  - http://journals.linguisticsociety.org/proceedings/index.php/ amphonology/index.
+ER  - 
+
+TY  - SLIDE
+TI  - Using Phasal Syntax to Make Generalizations in Manchu Vowel Harmony
+T2  - The 39th meeting of the West Coast Conference on Formal Linguistics (WCCFL) Special Session on Language Reclaimation
+A2  - Rabinovitch, Jack Isaac
+A2  - Qian, Baoqing
+AB  - In this paper, we analyze Manchu vowel harmony and argue that much of what were previously considered irregularities can actually be explained as the result of a phasal imperfective head, which requires that its complement, the spell-out domain, be sent to PF before more material can attach to the stem, similar to Fenger (2020)’s analysis of stress and pitch accent in Turkish and Japanese verbs respectively. We suggest that this analysis, which provides regularity where their was previously assumed to be none, can be used in pedagogy as a way of streamlining the internalization process of acquiring vowel harmony.
+CY  - The University of Arizona, Tuscon, Arizona
+DA  - 2021/04/10/
+PY  - 2021
+LA  - en
+M3  - Poster Presentation
+ER  - 
+
+TY  - BLOG
+TI  - An Exploration of “Knowing” in Manchu
+AU  - Rabinovitch, Jack Isaac
+T2  - Manchu Studies Group Blog
+AB  - Regardless of the language they speak, people across the world tend to be intent on telling others what they know – and often what they do not know; in writing this blog post, I am no exception. For Manchu speakers seeking to explain what they know, the most common word used to express knowledge (or lack thereof) is the verb sambi. In this blog post, I will cover some of the linguistic intricacies of sambi, including the kinds of structures that can be embedded under it and how Manchu speakers express that they know (or do not know) things. Later I will compare sambi to the English verb “know” and the Chinese word zhidao 知道.
+DA  - 2021/04/15/
+PY  - 2021
+LA  - en
+UR  - https://www.manchustudiesgroup.org/2021/04/15/an-exploration-of-knowing-in-manchu/
+ER  - 
+
+TY  - SLIDE
+TI  - Indexical Edge Cases: Some Questions on Perspective Shift and its Role in Indexical and Quotational Theory
+T2  - Meaning and Modality Lab Meetings
+A2  - Rabinovitch, Jack Isaac
+AB  - Reliance on contextual information is not unique to indexical pronouns. Everything from evidentials and evaluatives to which names we give entities is dependent on the context in which we speak.
+Iconicity, speaker oriented items, pronouns, and de re/de dicto distinctions are all related to the perspective and world through which events and situations are seen. Then why do we seemingly have distinct accounts for each of these phenomena?
+My goals for this talk are to discuss the boundaries between these phenomena and the possibility that they are blurrier than we thought. I focus on two boundaries: that between speaker oriented items and indexical pronouns, and that between indexical shift and quotation.
+CY  - Harvard University
+DA  - 2020/11/18/
+PY  - 2020
+LA  - en
+M3  - Lab Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Towards a Time Course of Chinese Tonogenesis: Evidence from Phonologically Conditioned Syntax
+T2  - Phonology in the North East 2021 (PhoNE)
+A2  - Rabinovitch, Jack Isaac
+CY  - New York University
+DA  - 2021/04/30/
+PY  - 2021
+LA  - en
+M3  - Oral Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Restrictions on Rogative and Responsive Verb Complements in Uyghur
+T2  - North East Linguistics Society 52
+A2  - Rabinovitch, Jack Isaac
+AB  - Uyghur (Turkic) has three complementation strategies each headed by a distinct particle: dep, liq and ish. Clauses headed by dep have tense, aspect, and agreement marking, while clauses headed by liq only have aspect, and clauses headed by ish only allow bare verbs. While rogative verbs (‘ask’, ‘wonder’) can take interrogative complements of all three clause types, responsive verbs (‘know’, ‘prove’, ‘agree’) cannot take dep headed interrogative complements and have narrow scoping wh-items. When taking a ish complement, rogative verbs acquire a modal flavor, while responsive verbs do not. The following data was collected with a native speaker consultant in Cambridge, Massachusetts.
+
+This paper follows the intuitions in Suñer (1993) and Lahiri (2002) that responsive verbs take semi-question complements, while rogative verbs take ontologically distinct full question complements. This paper argues that semi-questions are sets of propositions of type ⟨⟨s,t⟩,t⟩, and full questions are speech-act taking predicates of type ⟨a,t⟩, where a is a speech-act, following Krifka (2018)’s ontological distinction between propositions ⟨s,t⟩ and speech acts a. Full questions are formed from semi questions through the type shifting REQUEST operator, which exists in the left periphery. Clauses headed by liq are CPs, and may optionally include a REQUEST operator. Clauses headed by dep are necessarily larger than liq clauses, and mandatorily apply the REQUEST operator to any embedded semi-question. As a result, while full questions may be represented by both dep and liq headed clauses, semi-questions can only be represented by liq headed clauses, causing the ungrammaticality of responsive predicates with interrogative dep headed complements with narrow scoping wh-items. Clauses headed by ish cannot include a REQUEST operator, and instead the interpretation of ish clauses under a rogative predicate is derived from the insertion of a silent modal which allows the application of a REQUEST operator, similar to infinitive embedding under ‘ask’ in English. This paper argues that the difference in judgement across rogative and responsive predicates is representative not just that different syntactic sizes required of semi-questions and full questions, but that these size and ontological differences may be distinguished by different complementation strategies within a language.
+CY  - Rutgers University
+DA  - 2021/10/29/
+PY  - 2021
+LA  - en
+M3  - Poster Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - On the Structure and Origin of Honorific Truncation in Sibe
+T2  - Language Contact in the Altaic World: A Multiperspective Approach
+A2  - Rabinovitch, Jack Isaac
+AB  - Sibe (Tungusic) employs a kind of truncation in the use of honorifics, in which all but the first syllable of the referents name is elided before an honorific title. The coda of these syllables is occasionally elided too, with varying distribution of banned, optional, and mandatory elision. In this paper I argue that this distribution matches what one would expect given resyllabification of Sibe words in Mandarin. I suggest that the truncation template which Sibe speakers internalize for honorifics is historically derived from language contact with Mandarin speakers, who primarily use monosyllabic surnames in their syllables. The template is derived from a Mandarin reinterpretation of a Sibe name, will only the "surname" part remaining. This was then reinterpreted by Sibe speakers as a template for truncation.
+CY  - Charles University, Prague
+DA  - 2021/11/19/
+PY  - 2021
+LA  - en
+M3  - Poster Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Asking and Knowing in Uyghur: Syntactic Distinctions between Extensional and Intensional Attitudes
+T2  - Meaning and Modality Lab Meetings
+A2  - Rabinovitch, Jack Isaac
+AB  - Uyghur (Turkic) is a wh-in-situ language with three complementation strategies each headed by a distinct particle: dep, liq and ish.
+This presentation will be on the semantic and syntactic distinctions between the three based on novel data collected with a consultant in Cambridge MA.
+I find that there are restrictions in the syntactic size of interrogative complements under extensional verbs and suggest that this is due to a three-layered syntacto-semantic structure which distinguishes propositions, extensional attitudes, and intensional attitudes.
+CY  - Harvard University
+DA  - 2021/10/21/
+PY  - 2021
+LA  - en
+M3  - Lab Presentation
+ER  - 
+
+TY  - SLIDE
+TI  - Narrow Scoping Content Question Items in Shifty Contexts: A Case of Surprising Non-Quotation in Uyghur
+T2  - Linguistic Society of America Annual Meeting 2022
+A2  - Rabinovitch, Jack Isaac
+AB  - This paper investigates the distribution of third person subject drop in Uyghur and finds that some Uyghur sentences which are typically analyzed as quotational exhibit the null subject properties of embedded clauses. I argue that the complements of the sentences are non-quotational Force phrases (ForceP) which enforce narrow scope on CQ-items while allowing other A′ movement between matrix and embedded clauses. In embedded clauses with accusative subjects and narrow scoping content word items, a proleptic analysis of the accusative subject is incompatible with third person dropping, suggesting the accusative subject moves, which is only possible in non-quotational clauses.
+CY  - Washington, D.C
+DA  - 2022/01/07/
+PY  - 2022
+LA  - en
+M3  - Oral Presentation
+ER  - 
+
