@@ -112,17 +112,17 @@
     cursor: pointer;
 }
 
-.modal-content table{
+table{
 	margin: 10px 0px;
 	padding: 0px;
 }
-.modal-content td:first-child{
+td:first-child{
 	white-space: nowrap;
 }
-.modal-content td:not(:first-child){
+td:not(:first-child){
 	padding-left: 20px;
 }
-.modal-content td{
+td{
 	vertical-align: top;
 }
 .modal-content h2{
