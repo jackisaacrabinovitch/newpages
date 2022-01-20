@@ -2,6 +2,6 @@
 	background-image: var(--hero-gradient), url("https://www.manchustudiesgroup.org/wp-content/uploads/2021/04/palsea-page-001-1200x500.jpg");
 }
 
-.hero-image .IC-publications-2{
+.hero-image.IC-publications-2{
 	background-image: var(--hero-gradient), url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/DSC00536.jpeg");
 }
