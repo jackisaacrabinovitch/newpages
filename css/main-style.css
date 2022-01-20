@@ -3,7 +3,7 @@
   --light-trans-text: rgba(255, 255, 255, 0.85);
   --light-trans-background: rgba(240, 240, 240, 0.85);
 
-  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1));
+  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0));
   --background-color: rgba(250, 250, 250, 1.0);
 
   --link-color: rgba(0, 0, 140, 1.0);
@@ -333,7 +333,7 @@ main{
 
 
 .darkmode {
-  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3));
+  --hero-gradient: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.1));
   --background-color: rgba(20, 20, 20, 1.0);
   --link-color: rgba(135, 206, 235, 1.0);
   --link-hover: rgba(153, 90, 255, 1.0);
