@@ -125,6 +125,11 @@ td:not(:first-child){
 td{
 	vertical-align: top;
 }
+
+.modal-header h1{
+	font-size: 15px;
+	font-weight: normal;
+}
 .modal-content h2{
 	font-size: 20px;
 	font-weight: bolder;
@@ -153,8 +158,8 @@ td{
 .modal-button p{
 	pointer-events: none;
 	color: var(--light-trans-text);
+	display: inline;
 }
-
 
 
 
