@@ -1,3 +1,6 @@
+// When the event DOMContentLoaded occurs, it is safe to access the DOM
+document.addEventListener('DOMContentLoaded', function() {
+
 // Get the button that opens the modal
 var btn = document.querySelectorAll(".modal-button");
 
@@ -33,3 +36,4 @@ window.onclick = function(event) {
      }
     }
 }
+})
