@@ -1,0 +1,21 @@
+.service-box{
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	gap: 10px;
+}
+.service-content-box{
+	flex: 1;
+}
+.service-title{
+	font-weight: bold;
+}
+.service-description{
+	font-style: italic;
+}
+.serive-date-box{
+	width: 100px;
+}
+.service-date{
+
+}
