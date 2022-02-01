@@ -245,7 +245,7 @@ main{
 }
 
 .profile-picture {
-  background-image: url("https://jackisaacrabinovitch.github.io/newpages/images/profile.jpg");
+  background-image: url("/images/profile.jpg");
   margin: 85px 25px 25px;
   width: 200px;
   height: 200px;

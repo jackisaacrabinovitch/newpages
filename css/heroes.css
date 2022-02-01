@@ -5,59 +5,59 @@
 
 .IC-home{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Anderson_Memorial_Bridge_from_Business_School.jpeg");
+	url("/images/heroes/Anderson_Memorial_Bridge_from_Business_School.jpeg");
 }
 .IC-aboutme{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Baoqing_Butterfly_Orchids_First_Bloom.jpeg");
+	url("/images/heroes/Baoqing_Butterfly_Orchids_First_Bloom.jpeg");
 }
 .IC-projects{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Kendall_and_Longfellow_Bridge_from_Esplanade.jpeg");
+	url("/images/heroes/Kendall_and_Longfellow_Bridge_from_Esplanade.jpeg");
 }
 .IC-publications{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Sunset_Clouds_Behind_Blackstone_Steam_Plant.jpeg");
+	url("/images/heroes/Sunset_Clouds_Behind_Blackstone_Steam_Plant.jpeg");
 }
 .IC-teaching{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Mather_and_Lowell_House_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Mather_and_Lowell_House_from_Peabody_Terrace.jpeg");
 }
 .IC-service{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Night_Downtown_Boston_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Night_Downtown_Boston_from_Peabody_Terrace.jpeg");
 }
 .IC-names{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
+	url("/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
 }
 .IC-ling105{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
 }
 .IC-phonologically-conditioned-syntax{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Sanders_Theatre_and_William_James_Hall_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Sanders_Theatre_and_William_James_Hall_from_Peabody_Terrace.jpeg");
 }
 .IC-complementation-and-shifty-behavior{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Night_Time_Geese_in_Esplanade.jpeg");
+	url("/images/heroes/Night_Time_Geese_in_Esplanade.jpeg");
 }
 .IC-harvard-manchu-reading-group{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
+	url("/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
 }
 .IC-sibe-grammar-wiki{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Moonrise_over_Peabody_Terrace.jpeg");
+	url("/images/heroes/Moonrise_over_Peabody_Terrace.jpeg");
 }
 .IC-verb-complementation-quotation{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Sunset_Clouds_Behind_Blackstone_Steam_Plant.jpeg");
+	url("/images/heroes/Sunset_Clouds_Behind_Blackstone_Steam_Plant.jpeg");
 }
 .IC-manchu-sibe{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Night_Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Night_Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
 }
 
 
@@ -66,23 +66,23 @@
 
 .IC-publications-1{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Anderson_Memorial_Bridge_from_Business_School.jpeg");
+	url("/images/heroes/Anderson_Memorial_Bridge_from_Business_School.jpeg");
 }
 .IC-publications-2{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
+	url("/images/heroes/Cambridge_City_Hall_and_Zakim_Bridge_from_Peabody_Terrace.jpeg");
 }
 .IC-publications-3{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Moonrise_over_Peabody_Terrace.jpeg");
+	url("/images/heroes/Moonrise_over_Peabody_Terrace.jpeg");
 }
 .IC-publications-4{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
+	url("/images/heroes/Zakim_Bridge_from_Charlestown_Bells.jpeg");
 }
 .IC-publications-5{
 	background-image: var(--hero-gradient),
-	url("https://jackisaacrabinovitch.github.io/newpages/images/heroes/Peabody_Terrace_from_Weeks_Footbridge.jpeg");
+	url("/images/heroes/Peabody_Terrace_from_Weeks_Footbridge.jpeg");
 }
 
 
