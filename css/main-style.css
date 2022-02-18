@@ -16,6 +16,10 @@ body{
   overflow-x: hidden;
 }
 
+p{
+  max-width:60ch;
+}
+
 .content{
   margin: 10px;
   color: var(--dark-trans);
