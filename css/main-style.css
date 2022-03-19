@@ -20,6 +20,9 @@ p{
   max-width:70ch;
   line-height: 1.5;
 }
+.profile-desc p{
+  line-height: 1;
+}
 
 .content{
   margin: 10px;
@@ -226,7 +229,7 @@ main{
   width: 250px;
   margin: 0px;
   padding: 0px;
-  height: 100vh;
+  height: calc(100vh-250px);
 }
 
 #profile{
@@ -234,7 +237,7 @@ main{
   width: 250px;
   margin: 0px;
   padding: 0px;
-  height: 100vh;
+  height: calc(100vh-250px);
 }
 
 #content{
@@ -271,6 +274,8 @@ main{
   font-size: 14px;
   margin: 25px;
   color: var(--dark-trans);
+  overflow-y: auto;
+  height: 300px;
 }
 
 
