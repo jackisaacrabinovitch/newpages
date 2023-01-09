@@ -192,5 +192,78 @@ DA  - 2022/01/07/
 PY  - 2022
 LA  - en
 M3  - Oral Presentation
+ST  - Narrow scoping content question items in shifty contexts
+ER  - 
+
+TY  - CONF
+TI  - Intensional Predicates as Complex Predicates: a Perspective from Restrictions on Intensional Interrogative Complements in Uyghur
+AU  - Rabinovitch, Jack Isaac
+T2  - North East Linguistics Society 52
+AB  - Uyghur (Turkic) has three complementation strategies each headed by a distinct particle: dep, liq and ish. Clauses headed by dep have tense, aspect, and agreement marking, while clauses headed by liq only have aspect, and clauses headed by ish only allow bare verbs. While rogative verbs (‘ask’, ‘wonder’) can take interrogative complements of all three clause types, responsive verbs (‘know’, ‘prove’, ‘agree’) cannot take dep headed interrogative complements and have narrow scoping wh-items. When taking a ish complement, rogative verbs acquire a modal flavor, while responsive verbs do not. The following data was collected with a native speaker consultant in Cambridge, Massachusetts.
+
+This paper follows the intuitions in Suñer (1993) and Lahiri (2002) that responsive verbs take semi-question complements, while rogative verbs take ontologically distinct full question complements. This paper argues that semi-questions are sets of propositions of type ⟨⟨s,t⟩,t⟩, and full questions are speech-act taking predicates of type ⟨a,t⟩, where a is a speech-act, following Krifka (2018)’s ontological distinction between propositions ⟨s,t⟩ and speech acts a. Full questions are formed from semi questions through the type shifting REQUEST operator, which exists in the left periphery. Clauses headed by liq are CPs, and may optionally include a REQUEST operator. Clauses headed by dep are necessarily larger than liq clauses, and mandatorily apply the REQUEST operator to any embedded semi-question. As a result, while full questions may be represented by both dep and liq headed clauses, semi-questions can only be represented by liq headed clauses, causing the ungrammaticality of responsive predicates with interrogative dep headed complements with narrow scoping wh-items. Clauses headed by ish cannot include a REQUEST operator, and instead the interpretation of ish clauses under a rogative predicate is derived from the insertion of a silent modal which allows the application of a REQUEST operator, similar to infinitive embedding under ‘ask’ in English. This paper argues that the difference in judgement across rogative and responsive predicates is representative not just that different syntactic sizes required of semi-questions and full questions, but that these size and ontological differences may be distinguished by different complementation strategies within a language.
+C1  - Rutgers University
+C3  - NELS 52: Proceedings of the Fifty-Second Annual Meeting of the North East Linguistic Society
+DA  - 2022/12/02/
+PY  - 2022
+VL  - 3
+SP  - 35
+EP  - 46
+LA  - en
+PB  - Independently published
+ER  - 
+
+TY  - JOUR
+TI  - Narrow Scoping Content Question Items in Shifty Contexts: A Case of Surprising Non-Quotation in Uyghur
+AU  - Rabinovitch, Jack Isaac
+T2  - Proceedings of the Linguistic Society of America
+A2  - Farrell, Patrick
+AB  - This paper analyses ﬁnite (indexically shifted) complements in Uyghur with narrow scoping content question items. Using novel data, this paper discusses the distribution of null subjects in Uyghur, which can be licensed without a controller in embedded clauses except for interrogative intensional complements. I argue, following Sun˜er (1993), that complements with interrogative intensional interpretations (containing narrow scoping content question items) are syntactically larger than their extensional counterparts, containing a Force phrase (ForceP). Following Holmberg et al. (2009)’s theory of null subject licensing, I argue that Uyghur is a partial null subject language in which the heads of referential CPs contain a valued [D] feature which can check with the unvalued [uD] feature on typically controlled pronouns (in the Holmberg et al. 2009 sense), resulting in an interpretation in which the embedded (null) subject is not coreferent with a controller but rather some discourse provided individual. Referential CPs cannot be embedded directly under ForcePs, and so complements with narrow scoping content question items, which I take to be ForcePs, ban this kind of null subject.
+DA  - 2022/05/05/
+PY  - 2022
+DO  - 10.3765/plsa.v7i1.5235
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 1
+SP  - 5235
+J2  - Proc Ling Soc Amer
+LA  - en
+SN  - 2473-8689
+ST  - Narrow scoping content question items in shifty contexts
+UR  - https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5235
+Y2  - 2022/05/10/20:41:41
+ER  - 
+
+TY  - SLIDE
+TI  - Tense, Mood, and Indexicals Under Ende Ngonongg/Ngonoe
+T2  - BU Harvard MIT Summer Fieldwork Symposium
+A2  - Rabinovitch, Jack Isaac
+CY  - MIT
+DA  - 2022/10/07/
+PY  - 2022
+LA  - en
+M3  - Slides
+ER  - 
+
+TY  - SLIDE
+TI  - Towards Data Collection on Uyghur Prolepsis and ECM
+T2  - Fieldwork @ Harvard
+A2  - Rabinovitch, Jack
+CY  - Harvard University
+DA  - 2022/10/21/
+PY  - 2022
+LA  - en
+M3  - Handout
+ER  - 
+
+TY  - SLIDE
+TI  - Cross-Clausal Dependencies and Indexical Shift in Uyghur
+T2  - SULa Lab
+A2  - Rabinovitch, Jack Isaac
+CY  - Boston University
+DA  - 2022/11/10/
+PY  - 2022
+LA  - en
+M3  - Handout
 ER  - 
 
