@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<title>Sibe Grammar Wiki - Jack Isaac Rabinovitch</title>
+
+	<link rel="icon" href="/images/favicon.svg" type="image/svg">
+
+	<link rel="stylesheet" type="text/css" href="/css/main-style.css">
+	<link rel="stylesheet" type="text/css" href="/css/heroes.css">
+	<link rel="stylesheet" type="text/css" href="/css/works-format.css">
+	<link rel="stylesheet" type="text/css" href="/css/modals.css">
+	<link rel="stylesheet" type="text/css" href="/css/projects-box.css">
+	<link rel="stylesheet" type="text/css" href="/css/services.css">
+
+
+
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/nav-profile.js"></script>
+
+	
+	
+</head>
+<body>
+<header>
+	<div class="hero-image IC-sibe-grammar-wiki">
+		<h1 class="hero-text">Projects</h1>
+	</div>
+	<nav id="nav-original"></nav>
+		<script type="text/javascript">$.get("/html/navigation.html", function(data){$("#nav-original").replaceWith(data);
+});</script>
+</header>
+<main>
+	<div id="profilecontainer-original"></div>
+	<script type="text/javascript">$.get("/html/profile.html", function(data){$("#profilecontainer-original").replaceWith(data);});</script>
+
+	<div id="content">
+	
+		<div class="content">
+	<h1>Javascript Parser and Query Language for Linguistic Corpora (Lingcorpus)</h1>
+
+	<p>
+		Lingcorpus is a project I made to make a query language and parser for linguistic corpora. See the <a href="https://jackisaacrabinovitch.github.io/lingcorpus/">the current version here</a>, and the <a href="https://github.com/jackisaacrabinovitch/lingcorpus">respository on github</a>.
+	</p>
+
+</div>
+
+	<script type="text/javascript" src="/js/publication-modals.js"></script>
+	<div id="footer-original"></div>
+	<script type="text/javascript">$.get("/html/footer.html", function(data){$("#footer-original").replaceWith(data);});</script>
+	</div>
+</main>
+</body>
+</html>
